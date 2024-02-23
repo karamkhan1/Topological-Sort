@@ -5,7 +5,8 @@ This project implements a topological sort algorithm for directed acyclic graphs
 ## Overview
 
 Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge `u v`, vertex `u` comes before `v` in the ordering. This project includes a custom implementation of the topological sort that follows a specific sequence provided in the assignment.
-
+![image](https://github.com/karamkhan1/Topological-Sort/assets/79159011/0b336e4f-468d-4c90-a7f5-96f1f64db84a)
+![image](https://github.com/karamkhan1/Topological-Sort/assets/79159011/47d277d4-e9f2-4b9a-a7ff-ffe127105ab1)
 ## Implementation Details
 
 The implementation consists of two main functions:
